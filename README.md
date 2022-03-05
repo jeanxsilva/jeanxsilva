@@ -8,3 +8,7 @@ I'm from Brazil and currently I live in Curitiba, I've been working as a softwar
   -    by E-mail: jeanxsilva_14@hotmail.com;
   -    on Linkedin: [click here](https://www.linkedin.com/in/jeanxavier-cwb/);
   -    on Instagram: [@xaviersjean](https://www.instagram.com/xaviersjean/);
+
+
+## Technologies 📚
+These are the technologies in which I have some level of knowledge
