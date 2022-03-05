@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning about the .NET platform and the javascript ecosystem
 - 📫 How to contact me:
 -    by E-mail: jeanxsilva_14@hotmail.com;
--    on Linkedin: [JeanXavier](https://www.linkedin.com/in/jeanxavier-cwb/);
+-    on Linkedin: [Jean Xavier](https://www.linkedin.com/in/jeanxavier-cwb/);
