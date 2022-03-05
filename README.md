@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeanxsilva
+- 👋 Hi, I’m Jean Xavier
 - 👀 I am interested in developing my skills in software engineering, software development and project management
 - 🌱 I’m currently learning about the .NET platform and the javascript ecosystem
 - 📫 How to contact me:
