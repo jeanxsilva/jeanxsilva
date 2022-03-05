@@ -2,5 +2,5 @@
 - 👀 I am interested in developing my skills in software engineering, software development and project management
 - 🌱 I’m currently learning about the .NET platform and the javascript ecosystem
 - 📫 How to contact me:
--    by E-mail: jeanxsilva_14@hotmail.com;
--    on Linkedin: [Jean Xavier](https://www.linkedin.com/in/jeanxavier-cwb/);
+  -    by E-mail: jeanxsilva_14@hotmail.com;
+  -    on Linkedin: [Jean Xavier](https://www.linkedin.com/in/jeanxavier-cwb/);
