@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeanxsilva
-- 👀 I’m interested in development
+- 👀 I am interested in developing my skills in software engineering, software development and project management
 - 🌱 I’m currently learning about the .NET platform and the javascript ecosystem
 - 📫 How to contact me:
 -    by E-mail: jeanxsilva_14@hotmail.com;
