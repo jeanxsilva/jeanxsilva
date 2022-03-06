@@ -13,6 +13,7 @@ I'm from Brazil and currently I live in Curitiba, I've been working as a softwar
 ## Technologies 📚
 These are the technologies in which I have some level of knowledge:
 <br/>
+<br/>
 ![javascript-card](https://user-images.githubusercontent.com/60391387/156907292-75fb1c8b-c6ad-4f2c-8ae5-e0ee8200ebd0.svg)
 ![typescript-card](https://user-images.githubusercontent.com/60391387/156907391-e7a1ab1e-55fa-42f4-ae44-0e213dc09d47.svg)
 ![angular-card](https://user-images.githubusercontent.com/60391387/156907396-640463b9-a28b-4c0a-9d63-664959e69d10.svg)
