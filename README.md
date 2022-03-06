@@ -11,4 +11,23 @@ I'm from Brazil and currently I live in Curitiba, I've been working as a softwar
 
 
 ## Technologies 📚
-These are the technologies in which I have some level of knowledge
+These are the technologies in which I have some level of knowledge:
+- Javascript
+- Java
+- Python
+- C
+- C#
+- HTML5
+- CSS3
+- SASS
+- VSCode
+- Visual Studio
+- Typescript
+- Angular
+- AngularJS
+- Ionic
+- MySQL
+- SQLServer
+- PostgreSQL
+- Bootstrap
+- GitHub
