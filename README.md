@@ -12,6 +12,8 @@ I'm from Brazil and currently I live in Curitiba, I've been working as a softwar
 
 ## Technologies 📚
 These are the technologies in which I have some level of knowledge:
+![javascript-card](https://user-images.githubusercontent.com/60391387/156907292-75fb1c8b-c6ad-4f2c-8ae5-e0ee8200ebd0.svg)
+
 - Javascript
 - Java
 - Python
